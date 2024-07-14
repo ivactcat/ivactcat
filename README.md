@@ -8,7 +8,8 @@ I'm a lawyer and new Data Analysts who recently completed the Data Science skill
 -Data Visualisation
 -NLP
 -Machine learning
-
+-Power bi
+-SQL
 ## Interests
 I have a keen interest in legal innovation and sports
 
